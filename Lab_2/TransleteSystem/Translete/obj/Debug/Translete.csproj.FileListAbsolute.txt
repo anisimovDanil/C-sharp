@@ -1,0 +1,6 @@
+C:\Users\danil\Desktop\C#\Translete\Translete\bin\Debug\Translete.exe.config
+C:\Users\danil\Desktop\C#\Translete\Translete\obj\Debug\Translete.csprojResolveAssemblyReference.cache
+C:\Users\danil\Desktop\C#\Translete\Translete\bin\Debug\Translete.exe
+C:\Users\danil\Desktop\C#\Translete\Translete\bin\Debug\Translete.pdb
+C:\Users\danil\Desktop\C#\Translete\Translete\obj\Debug\Translete.exe
+C:\Users\danil\Desktop\C#\Translete\Translete\obj\Debug\Translete.pdb
