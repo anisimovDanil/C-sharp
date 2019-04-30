@@ -1,0 +1,6 @@
+C:\Users\danil\Desktop\C#\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\danil\Desktop\C#\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+C:\Users\danil\Desktop\C#\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\danil\Desktop\C#\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\danil\Desktop\C#\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\danil\Desktop\C#\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb
